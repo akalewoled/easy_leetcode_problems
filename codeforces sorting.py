@@ -1,0 +1,1 @@
+print(3 if 1==1 else "no")
